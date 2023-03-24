@@ -1,6 +1,10 @@
-git клон https://github.com/xampp\htdocs\myProject.github.io
-cd index.html.github.io
-echo "Hello World" > index.html
-git add --all
-git commit -m "Початкова фіксація"
-git push -u джерело main
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Мой первый сайт</title>
+  </head>
+  <body>
+    <h1>Привет, мир!</h1>
+    <p>Это мой первый сайт.</p>
+  </body>
+</html>
